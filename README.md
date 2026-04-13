@@ -1,2 +1,10 @@
-# mi-proyecto-nube
-Página web simple creada como proyecto final para aplicar el uso de Git y GitHub.
+# Mi Primer Proyecto en la Nube
+
+## Descripción
+Proyecto básico en HTML usando Git y GitHub.
+
+## Autor
+Estrella Mauricio
+
+## Fecha
+Abril 2026
